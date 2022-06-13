@@ -1,4 +1,4 @@
-from app.api.models import PersonIn, PersonOut
+from app.api.models import PersonIn
 from app.api.db import person, database
 
 
